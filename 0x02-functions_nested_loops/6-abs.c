@@ -1,7 +1,7 @@
 #include "holberton.h"
 /**
  *_abs - absolute number
- *@f: 1 operand
+ *@m: 1 operand
  *Return: absolute number m
  */
 int _abs(int m)
