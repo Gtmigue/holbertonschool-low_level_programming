@@ -4,7 +4,7 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void)
+void print_alphabet(void)
 {
 int mig;
 for (mig = 'a'; mig <= 'z'; mig++)
@@ -12,5 +12,5 @@ for (mig = 'a'; mig <= 'z'; mig++)
 _putchar(mig);
 }
 _putchar('\n');
-return (0);
+return;
 }
